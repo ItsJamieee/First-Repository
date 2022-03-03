@@ -12,6 +12,10 @@ Pandas uses multiple regression as its machine learning model, multiple regressi
 
 Multiple regression is a form of supervised learning which is when the algorithm is fed with labelled training data. The labbeled data has the outcome for the inputted data it uses the data to recognize patterns.
 
+### Possible adaptation:
+
+
+
 ## What does it do?
 
 Pandas allows the computer to predict a certain outcome for a certain variable with the use of predetermined variables however it can become more accurate with the use of more predetermined variables this is possible as it is a multiple regression model.
