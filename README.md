@@ -14,11 +14,11 @@ Multiple regression is a form of supervised learning which is when the algorithm
 
 ### Possible adaptation:
 
-To allow for clustering the model must change its operation by using unserpervised learning instead which does not work as the model uses supervised learning.
+To allow for clustering the model must change its operation by using unserpervised learning instead which does not work as the model uses supervised learning.clustering is similar to the classification model where its aim is to identify patterns and group data seperatly
 
 To make the model unsupervised you have to remove the labelled data completly and allow the model to operate on its own unlabelled data
 
-TO include reinforcement the pandas model will have to remove the expected outcomes and leave the inputs to include reinforcement
+To include reinforcement the pandas model will have to remove the expected outcomes and leave the inputs to include reinforcement
 
 
 
@@ -54,4 +54,6 @@ print(predictedCO2)
 ```
 
 
+## Deep learning
 
+The model I used uses deep learning which is a subfield of machine learning it is a learning technique that allows computers to make more human like decisions.
