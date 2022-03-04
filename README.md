@@ -18,6 +18,9 @@ To allow for clustering the model must change its operation by using unserpervis
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190812011831/Screenshot-2019-08-12-at-1.09.42-AM.png" alt="ML | K-means++ Algorithm - GeeksforGeeks"/>![image](https://user-images.githubusercontent.com/99629727/156688948-7d50ae2c-d780-491c-baad-7ac35e02f45a.png)
 
+<img src="https://sweetcode.io/wp-content/uploads/2019/02/pasted-image-0-1.png" alt="From Simple to Multiple Linear Regression with Python and scikit –  Sweetcode.io"/>![image](https://user-images.githubusercontent.com/99629727/156689098-73fc2d04-4322-41bc-b084-d111fb12356e.png)
+
+
 
 To make the model unsupervised you have to remove the labelled data completly and allow the model to operate on its own unlabelled data
 
@@ -31,7 +34,6 @@ Pandas allows the computer to predict a certain outcome for a certain variable w
 
 ![image](https://user-images.githubusercontent.com/99629727/156592255-ed217902-34e9-42bc-a210-01f38bd1712d.png)
 
-<img src="https://sweetcode.io/wp-content/uploads/2019/02/pasted-image-0-1.png" alt="From Simple to Multiple Linear Regression with Python and scikit –  Sweetcode.io"/>![image](https://user-images.githubusercontent.com/99629727/156689050-6b3ccd33-0dc9-4c12-a405-e44278861558.png)
 
 
 the image above shows a data set about cars the the algorithm can already make a guess of the C02 produced by the car based just on the size of the engine however it can become more accurate with an increase in independent variables
